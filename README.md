@@ -33,6 +33,11 @@ Aplikasi ini dibuat dengan tujuan:
 - Reset data riwayat
 - Logout akun
 
+# UI Seluruh Aplikasi 
+
+<img width="454" height="353" alt="image" src="https://github.com/user-attachments/assets/4f44a564-6df3-49c7-b245-cd4a7d7f98c4" />
+
+
 # SplashScreen
 
 <img width="390" height="844" alt="iPhone 13   14 - 1" src="https://github.com/user-attachments/assets/eb4f08f0-3a78-4284-a422-3c2082fe5b77" />
